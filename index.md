@@ -33,7 +33,7 @@ Fast-learning software developer with experience building graphics applications 
 Designed a 2D rendering workflow using GPU-friendly triangle meshes instead of sprite-based rendering, leveraging modern GPU throughput.  
 
 ### - MonoGameDrawingApp — [Repo](https://github.com/EliiasG/MonoGameDrawingApp)
-**Summary:** A 2D Drawing app inspired by mesh-based 3D modelling software such as Blender. 
+**Summary:** A 2D Drawing app inspired by mesh-based 3D modelling software such as Blender   
 <img src="https://raw.githubusercontent.com/EliiasG/MonoGameDrawingApp/refs/heads/main/example.png" height="200">
 
 **Tech:** C#, MonoGame   
