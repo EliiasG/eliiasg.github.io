@@ -26,7 +26,7 @@ Got **bronze** at **Baltic Olympiad in Informatics (BOI) 2026** as the only meda
 **Highlights:**
 - Developed a compiler architecture from scratch
 - Invented a system to cleanly handle physical units
-- Designed an abstract architecture to easily allow extending the system
+- Designed an abstract architecture to easily allow extending the compiler
 
 ### Real-Time vector graphics for 2D games
 Designed a 2D rendering workflow using GPU-friendly triangle meshes instead of sprite-based rendering, leveraging modern GPU throughput. I explored this approach across two projects:
@@ -77,9 +77,9 @@ Designed a 2D rendering workflow using GPU-friendly triangle meshes instead of s
 ---
 
 ## Awards & Competitions
-- **Nordic Olympiad in Informatics (NOI) 2026** — Online; **Silver Medal**.
-- **Baltic Olympiad in Informatics (BOI) 2026** — National team member; **Bronze Medal**.
-- **Baltic Olympiad in Informatics (BOI) 2025** — National team member; **Honorable Mention.**  
+- **Nordic Olympiad in Informatics (NOI) 2026** — Online; **Silver Medal**
+- **Baltic Olympiad in Informatics (BOI) 2026** — National team member; **Bronze Medal**
+- **Baltic Olympiad in Informatics (BOI) 2025** — National team member; **Honorable Mention**  
   
 All qualified through **Dansk Datalogi Dyst**, the Danish national informatics competition. Worked on advanced algorithmic problems under strict time constraints, strengthening my problem decomposition and optimization skills.
 
