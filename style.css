@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+body{font-family:'Roboto', system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; line-height:1.6; max-width:900px; margin:3rem auto; padding:0 1rem; color:#222;}
+code, pre{font-family:ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;}
+pre{background:#f6f8fa; padding:1rem; overflow-x:auto; border-radius:6px;}
+h1, h2, h3 {font-weight:500;}
