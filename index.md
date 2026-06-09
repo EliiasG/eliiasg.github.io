@@ -16,13 +16,6 @@ Got **bronze** at **Baltic Olympiad in Informatics (BOI) 2026** as the only meda
 
 ---
 
-## Education
-**Københavns Mediegymnasium** — Expected graduation: 2028
-- Programming
-- Informatics
-
----
-
 ## Projects
 
 ### Markmath — [Repo](https://github.com/EliiasG/markmath)
@@ -96,6 +89,13 @@ All qualified through **Dansk Datalogi Dyst**, the Danish national informatics c
 **Zmart NetZero** — 2025
 - Java, Python, PostgreSQL
 - Built a generic database system for storing energy data from different sources
+
+---
+
+## Education
+**Københavns Mediegymnasium** — Expected graduation: 2028
+- Programming
+- Informatics
 
 ---
 
