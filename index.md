@@ -5,7 +5,7 @@
 
 ## Summary
 Software developer with experience building graphics applications and a compiler (mostly in Rust). Main interests are: Game engine development and ECS patterns, programming language development, and hardware / embedded development.  
-Got **bronze** at **Baltic Olympiad in Informatics (BOI) 2026** as the only medalist on the Danish team, and **silver** at **Nordic Olympiad in Informatics (NOI) 2026**.   
+Got **bronze** at **Baltic Olympiad in Informatics (BOI) 2026** as the only medalist on the Danish team, **silver** at **Nordic Olympiad in Informatics (NOI) 2026**, and **Honurable Mention** at **International Olympiad in Informatics (IOI) 2026**.  
 
 
 ## Skills
@@ -77,8 +77,9 @@ Designed a 2D rendering workflow using GPU-friendly triangle meshes instead of s
 ---
 
 ## Awards & Competitions
-- **Nordic Olympiad in Informatics (NOI) 2026** — Online; **Silver Medal**
+- **International Olympiad in Informatics (IOI) 2026** — National team member; **Honorable Mention**  
 - **Baltic Olympiad in Informatics (BOI) 2026** — National team member; **Bronze Medal**
+- **Nordic Olympiad in Informatics (NOI) 2026** — Online; **Silver Medal**
 - **Baltic Olympiad in Informatics (BOI) 2025** — National team member; **Honorable Mention**  
   
 All qualified through **Dansk Datalogi Dyst**, the Danish national informatics competition. Worked on advanced algorithmic problems under strict time constraints, strengthening my problem decomposition and optimization skills.
@@ -89,6 +90,13 @@ All qualified through **Dansk Datalogi Dyst**, the Danish national informatics c
 **Zmart NetZero** — 2025
 - Java, Python, PostgreSQL
 - Built a generic database system for storing energy data from different sources
+
+**Recommendation** *(translated from Danish)*
+> During my time as CTO at Zmart NetZero, I had the pleasure of having Elias Gjedde-Grundtvig as a student assistant. He was given a handful of tasks he had no prior background for, but he dug in and always got his tasks solved.
+>
+> So even when he had no knowledge of the chosen programming language, database, or technology, he got up to speed on how it all fit together and delivered results.
+>
+> I can warmly recommend Elias, and expect that he'll be useful no matter what task he's given.
 
 ---
 
